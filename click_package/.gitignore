@@ -1,0 +1,11 @@
+Makefile
+*.u.d
+*.u.o
+autom4te.cache/
+config.log
+config.status
+configure
+*-uelem.conf
+*-uelem.mk
+*-umain.cc
+*.uo
